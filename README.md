@@ -2,7 +2,7 @@
 
 WTIOWordle Bot is an interactive discord bot that lets the user play a Wordle clone! 
 
-Wordle is a free game where you have six tries to guess a five-letter word through deduction.
+Wordle is a free game where you have six tries to guess a five-letter word through deduction. 🔎
 
 Rules / How To Play:
 
@@ -16,4 +16,4 @@ If you'd like to test out the bot you can join my bot testing discord server (No
 
 Commands:
 
--Wordle
+-Wordle <- Starts the Wordle Game
